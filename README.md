@@ -16,6 +16,8 @@ using namespace std;
 const int mx =1e5+123;
 //long long adjmat[mx][mx];
 //long long adjmat[mx][mx];
+
+
 int main()
 {
     ios::sync_with_stdio(0);
